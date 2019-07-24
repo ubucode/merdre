@@ -16,3 +16,5 @@
 - Morphogenese du sense. 
   - Petitot/Doursat
   - Computational Langaker/Talmy
+- Linear Logic:
+  - Jean-Yves Girard
