@@ -18,3 +18,4 @@
   - Computational Langaker/Talmy
 - Linear Logic:
   - Jean-Yves Girard
+- Citation network in A. texts
